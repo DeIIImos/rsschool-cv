@@ -1,3 +1,56 @@
-p {
-    color: azure;
+.header {
+    background-color: #8d998d;
+    height: 90px;
+    width: 100%;
 }
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height: 50px;
+    padding: 0 20px;
+   }
+   .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    
+  }
+  .nav-link {
+    padding: 0px 20px;
+    line-height: 50px;
+    transition: 0.3s;
+  }
+
+  .nav-item {
+    margin-top: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+div {
+    display: block; 
+}
+
+A {
+    color: red; 
+   }
+A:visited {
+    color: #cecece; 
+   }
+A:active {
+    color: #ffff00;
+   }
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
