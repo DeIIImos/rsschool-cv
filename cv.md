@@ -1,6 +1,6 @@
 # Bocharov Dmitry
 
-![Photo](pictures/photo_2024-06-30_18-05-55.jpg)
+![Photo](/assets/img/photo_2024-06-30_18-05-55.jpg)
 
 ### phone number: 89161217787
 
