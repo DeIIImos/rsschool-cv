@@ -164,7 +164,7 @@ pre {
   .rs {
     width: 121px;
     height: 45px;
-    background-image: url("/assets/img/rs-school-logo.svg");
+    background-image: url("./assets/img/rs-school-logo.svg");
     background-size: contain;
     background-repeat: no-repeat;
 }
